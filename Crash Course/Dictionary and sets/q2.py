@@ -1,0 +1,10 @@
+n1=int(input("enter the number1: "))
+n2=int(input("enter the number2: "))
+n3=int(input("enter the number3: "))
+n4=int(input("enter the number4: "))
+n5=int(input("enter the number5: "))
+n6=int(input("enter the number6: "))
+n7=int(input("enter the number7: "))
+n8=int(input("enter the number8: "))
+s={n1,n2,n3,n4,n5,n6,n7,n8}
+print(s)
