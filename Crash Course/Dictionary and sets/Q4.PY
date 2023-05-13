@@ -8,3 +8,4 @@ lang['anurag']=lang2
 lang['devraj']=lang3
 lang['sagar']=lang4
 print(lang)
+#  keys unique hona chaiya and value same ho skta ha
