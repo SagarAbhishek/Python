@@ -19,10 +19,6 @@ def gameWin(comp,you):
         elif you=='s':
             print('you win')
     
-        
-
-
-
 print('computer choose: snake(s), water(w) and gun(g): ')
 randNo=random.randint(1,3)
 if(randNo==1):
