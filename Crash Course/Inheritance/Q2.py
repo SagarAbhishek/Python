@@ -3,7 +3,7 @@ class Animals:
     def eat():
         print('eating')
 class pets(Animals):
-    pass
+    color='white'
 class dog(pets):
     @staticmethod
     def bark():
