@@ -19,7 +19,6 @@ class Library:
         print("Thanks for returning it. Hope you enjoyed reading it.")
 
 class Student:
-
     def requestBook(self):
         self.reqBook=input("Enter the name of book you want: ")
         return self.reqBook
